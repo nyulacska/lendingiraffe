@@ -33,3 +33,5 @@ npm install
 npm run build
 netlify dev
 */
+
+// https://snyk.io/test/npm/netlify-plugin-nimbella/0.0.0-dev.18
