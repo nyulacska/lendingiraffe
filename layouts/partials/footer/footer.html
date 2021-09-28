@@ -1,13 +1,17 @@
 <footer class="footer text-muted">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 order-last order-lg-first">
+      <div class="col-lg-6 order-last order-lg-first">
         <ul class="list-inline">
           <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
         </ul>
       </div>
-      <div class="col-lg-8 order-first order-lg-last text-lg-end">
+      <div class="col-lg-4">
+        <p class="meta">Open Src MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub 😎{{ .Site.Data.doks.version }}</a></p>
+      </div>
+      <div class="col-lg-6 order-first order-lg-last text-lg-end">
         <ul class="list-inline">
+        <li class="list-inline-item">{{ .Site.Params.love | safeHTML }}</li>
           {{ range .Site.Menus.footer -}}
             <li class="list-inline-item"><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
           {{ end -}}

@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Lending Giraffe"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "We eat trees for breakfast! 😋"
+description = "We're a documentation powerhouse for all things lending, and we eat trees for breakfast! 😋"
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
@@ -36,6 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
+love = "Made with  💖 by <a href=\"https://github.com/batmanwgd/\">@batmanwgd</a>"
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
