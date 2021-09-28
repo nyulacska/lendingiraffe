@@ -3,4 +3,4 @@ node_modules
 public
 resources
 # Local Netlify folder
-.netlify
+.netlify.DS_Store
