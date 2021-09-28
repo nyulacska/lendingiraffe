@@ -2,7 +2,7 @@
 .blog .content,
 .page .content,
 .error404 .content,
-.docs.list .content,
+.doks.list .content,
 .tutorial.list .content,
 .showcase.list .content {
   padding-top: 1rem;
@@ -89,18 +89,18 @@ body {
   padding-top: 3.5625rem;
 }
 
-.docs-sidebar {
+.doks-sidebar {
   order: 2;
 }
 
 @include media-breakpoint-up(lg) {
-  .docs-sidebar {
+  .doks-sidebar {
     order: 0;
     border-right: 1px solid $gray-200;
   }
 
   @supports ((position:-webkit-sticky) or (position:sticky)) {
-    .docs-sidebar {
+    .doks-sidebar {
       position: -webkit-sticky;
       position: sticky;
       top: 4rem;
@@ -111,18 +111,18 @@ body {
 }
 
 @include media-breakpoint-up(xl) {
-  .docs-sidebar {
+  .doks-sidebar {
     flex: 0 1 320px;
   }
 }
 
-.docs-links {
+.doks-links {
   padding-bottom: 5rem;
 }
 
 @include media-breakpoint-up(lg) {
   @supports ((position: -webkit-sticky) or (position: sticky)) {
-    .docs-links {
+    .doks-links {
       max-height: calc(100vh - 4rem);
       overflow-y: scroll;
     }
@@ -130,7 +130,7 @@ body {
 }
 
 @include media-breakpoint-up(lg) {
-  .docs-links {
+  .doks-links {
     display: block;
     width: auto;
     margin-right: -1.5rem;
@@ -138,12 +138,12 @@ body {
   }
 }
 
-.docs-toc {
+.doks-toc {
   order: 2;
 }
 
 @supports ((position:-webkit-sticky) or (position:sticky)) {
-  .docs-toc {
+  .doks-toc {
     position: -webkit-sticky;
     position: sticky;
     top: 4rem;
@@ -152,28 +152,28 @@ body {
   }
 }
 
-.docs-content {
+.doks-content {
   padding-bottom: 3rem;
   order: 1;
 }
 
-.docs-navigation {
+.doks-navigation {
   border-top: 1px solid $gray-200;
   margin-top: 2rem;
   margin-bottom: 0;
   padding-top: 2rem;
 }
 
-.docs-navigation a {
+.doks-navigation a {
   font-size: $font-size-base * 0.9;
 }
 
 @include media-breakpoint-up(lg) {
-  .docs-navigation {
+  .doks-navigation {
     margin-bottom: -1rem;
   }
 
-  .docs-navigation a {
+  .doks-navigation a {
     font-size: $font-size-base;
   }
 }

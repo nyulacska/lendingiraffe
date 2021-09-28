@@ -85,7 +85,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * add check commands ([85baab4](https://github.com/h-enk/doks/commit/85baab47ff06557051f373aa6afeb114fb40f50f))
-* match active class docs menu on identifier ([7384cfe](https://github.com/h-enk/doks/commit/7384cfe8f1652b8053f077c964633d4ad12cf281))
+* match active class doks menu on identifier ([7384cfe](https://github.com/h-enk/doks/commit/7384cfe8f1652b8053f077c964633d4ad12cf281))
 * update package-lock.json ([8c73d74](https://github.com/h-enk/doks/commit/8c73d741fd789e829c35bf51cfc25c6d790b0dbb))
 
 
@@ -144,7 +144,7 @@ All notable changes to this project will be documented in this file. See [standa
 * update readme ([7b75c47](https://github.com/h-enk/doks/commit/7b75c47c9e0e5953b781ce4f784a3083361970fb))
 * update readme ([2d33818](https://github.com/h-enk/doks/commit/2d3381885ab6578ed44720e8f99033429034ba2a))
 * update readme ([632623f](https://github.com/h-enk/doks/commit/632623f29401f38e0a853508346a94267372dfa1))
-* update readme for docs discussions ([fb9e340](https://github.com/h-enk/doks/commit/fb9e340f6e48293ed2d32a73754ae081f41a0fc9))
+* update readme for doks discussions ([fb9e340](https://github.com/h-enk/doks/commit/fb9e340f6e48293ed2d32a73754ae081f41a0fc9))
 * update showcase link ([74724eb](https://github.com/h-enk/doks/commit/74724eb4c53d15475492b2b7c103b3056260fd28))
 
 

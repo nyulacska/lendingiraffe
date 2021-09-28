@@ -61,7 +61,7 @@ Nine reasons why you should use Doks:
 
 ## Requirements
 
-Doks uses npm to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts:
+Doks uses npm to centralize dependency management, making it [easy to update](https://getdoks.org/doks/help/how-to-update/) resources, build tooling, plugins, and build scripts:
 
 - Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
 
@@ -104,11 +104,11 @@ npm run start
 
 ## Other commands
 
-Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
+Doks comes with [commands](https://getdoks.org/doks/prologue/commands/) for common tasks.
 
 ## Documentation
 
-- [Netlify](https://docs.netlify.com/)
+- [Netlify](https://doks.netlify.com/)
 - [Hugo](https://gohugo.io/documentation/)
 - [Doks](https://getdoks.org/)
 
