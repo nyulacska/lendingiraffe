@@ -1,7 +1,6 @@
-functions
+bin
 node_modules
 public
 resources
 # Local Netlify folder
 .netlify
-package-lock.json
