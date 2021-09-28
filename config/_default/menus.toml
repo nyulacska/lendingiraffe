@@ -10,6 +10,18 @@
   identifier = "help"
   url = "/doks/help/"
 
+[[doks]]
+  name = "Case Studies"
+  weight = 60
+  identifier = "case-studies"
+  url = "/doks/case-studies/"
+
+[[doks]]
+  name = "Domain Knowledge"
+  weight = 60
+  identifier = "domain-knowledge"
+  url = "/doks/domain-knowledge/"
+
 [[main]]
   name = "Doks"
   url = "/doks/prologue/introduction/"

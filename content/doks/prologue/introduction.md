@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "Lending Giraffes was created out of necessity, to aid our chief author through the process of learning the lending industry."
+lead: "Lending Giraffes was created out of necessity, to aid our chief author through the process of learning the lending industry."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -13,11 +13,16 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## Things You'll Learn
 
-There are two main ways to get started with Doks:
+There are five main focus areas for our doks here:
+1. Required Domain Knowledge for FinTech
+2. Information Regarding Total Expert
+3. Developer Resources Covering both #1 & #2
+4. Use Case(s) Designed to Explain Clientele
+5. Demos Illustrating Workflows for #4
 
-### Tutorial
+### Domain Knowledge for FinTech
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
