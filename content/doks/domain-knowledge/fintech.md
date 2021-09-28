@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   doks:
-    parent: "help"
+    parent: "domain-knowledge"
 weight: 630
 toc: true
 ---
