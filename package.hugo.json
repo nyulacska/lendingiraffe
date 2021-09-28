@@ -85,6 +85,7 @@
   },
   "repository": "https://github.com/h-enk/doks",
   "scripts": {
+    "preinstall": "hugo mod npm pack",
     "build": "exec-bin bin/hugo/hugo --gc --minify",
     "build:preview": "npm run build -D -F",
     "check": "exec-bin bin/hugo/hugo version",
@@ -101,7 +102,6 @@
     "postinstall": "hugo-installer --version otherDependencies.hugo --extended",
     "prebuild": "npm run clean",
     "precheck": "npm version",
-    "preinstall": "hugo mod npm pack",
     "prestart": "npm run clean",
     "release": "standard-version",
     "release:dry-run": "standard-version --dry-run",
